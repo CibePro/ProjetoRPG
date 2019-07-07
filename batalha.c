@@ -238,21 +238,21 @@ struct personagem gerador_inimigo(int p)
 		}
 
 		if(i == 3)
-			strcpy(chefes[i].nome, "Ciron");
+			strcpy(chefes[i].nome, "Ciron"); //Ciferri
 		else if(i == 4)
-			strcpy(chefes[i].nome, "MaTuz");
+			strcpy(chefes[i].nome, "MaTuz");//Mario Matos
 		else if(i == 5)
-			strcpy(chefes[i].nome, "Sally");
+			strcpy(chefes[i].nome, "Sally"); //Sally
 		else if(i == 6)
-			strcpy(chefes[i].nome, "Bozo");
+			strcpy(chefes[i].nome, "Bozo"); //Presidento
 		else if(i == 7)
-			strcpy(chefes[i].nome, "sdf");
+			strcpy(chefes[i].nome, "Menotauro"); //Menotti
 		else if(i == 8)
-			strcpy(chefes[i].nome, "sdf");
+			strcpy(chefes[i].nome, "Heartmann"); //Hartman
 		else if(i == 9)
-			strcpy(chefes[i].nome, "sdf");
+			strcpy(chefes[i].nome, "Kataru"); //Kato
 		else if(i == 10)
-			strcpy(chefes[i].nome, "sdf");
+			strcpy(chefes[i].nome, "Eiraktus");
 		else if(i == 11)
 			strcpy(chefes[i].nome, "Ganso");
 		else if(i == 12)
